@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="Zagolovok">Санкт-Петербург</string>
+    <string name="eks">Лучшие экскурсии</string>
+    <string name="knopka">Найти</string>
+    <string name="naiti">Найти</string>
+    <string name="knopka">Найти</string>
+    <string name="Besteks">Лушие экскурсии</string>
+    <string name="posp">По Санкт-Петербургу</string>
+    <string name="Avtorskie_rofli">Авторские экскурсии от частных гидов и туристических компаний</string>
+</resources>
